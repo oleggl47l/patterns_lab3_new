@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kKM+pTYf9gqJfuayp+MhTpU2rc1qwJtWL5IWtSoDC/5QTdbWxdxnNi2DbgDTn64w44eYlBLtihq7kudZiymNNw==",
+  "success": true,
+  "projectFilePath": "D:\\polytech\\patterns_polytech\\patterns_labbbb\\ChatApp\\backend\\ChatApp.Core\\ChatApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oleg\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.caching.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\oleg\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.3.24172.9\\microsoft.extensions.primitives.9.0.0-preview.3.24172.9.nupkg.sha512"
+  ],
+  "logs": []
+}

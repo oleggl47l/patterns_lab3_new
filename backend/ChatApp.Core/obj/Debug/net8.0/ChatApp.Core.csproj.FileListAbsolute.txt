@@ -1,0 +1,13 @@
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\bin\Debug\net8.0\ChatApp.Core.deps.json
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\bin\Debug\net8.0\ChatApp.Core.dll
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\bin\Debug\net8.0\ChatApp.Core.pdb
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\obj\Debug\net8.0\ChatApp.Core.csproj.AssemblyReference.cache
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\obj\Debug\net8.0\ChatApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\obj\Debug\net8.0\ChatApp.Core.AssemblyInfoInputs.cache
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\obj\Debug\net8.0\ChatApp.Core.AssemblyInfo.cs
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\obj\Debug\net8.0\ChatApp.Core.csproj.CoreCompileInputs.cache
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\obj\Debug\net8.0\ChatApp.Core.sourcelink.json
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\obj\Debug\net8.0\ChatApp.Core.dll
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\obj\Debug\net8.0\refint\ChatApp.Core.dll
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\obj\Debug\net8.0\ChatApp.Core.pdb
+D:\polytech\patterns_polytech\patterns_lab3\ChatApp\backend\ChatApp.Core\obj\Debug\net8.0\ref\ChatApp.Core.dll
